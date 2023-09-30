@@ -33,7 +33,7 @@
 
 # Organisation Roles 
 ### Varsha V Shetty
-![](https://img.shields.io/badge/KinderNeutron-Documentation_Head-FF1E0D?style=for-the-badge&logo=pagekit)
+![](https://img.shields.io/badge/Documentation_Head-KinderNeutron-506365?style=for-the-badge&logo=pagekit&labelColor=FF1E0D)
 
 
 
