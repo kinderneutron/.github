@@ -21,17 +21,10 @@
 
 [![My Skills](https://skillicons.dev/icons?i=arduino,vscode,git,github)](https://skillicons.dev)
 
-# Team Core
-<ul>
-  <h2>
-  <li>Suhas</li>
-    <li>Varsha</li> 
-    <li>Viyola</li>
-    <li>Vijaylaxmi</li>
-  </h2>
-</ul>
-
 # Organisation Roles 
+### Suhas S Bhandary
+![](https://img.shields.io/badge/Organization_Owner-KinderNeutron-506365?style=for-the-badge&logo=instatus&labelColor=428813)
+
 ### Varsha V Shetty
 ![](https://img.shields.io/badge/Documentation_Head-KinderNeutron-506365?style=for-the-badge&logo=pagekit&labelColor=FF1E0D)
 
